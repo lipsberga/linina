@@ -3,13 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lipsberga.github.io/linina/categories/</loc>
+    <loc>https://lipsberga.github.io/linina/</loc>
+    <lastmod>2020-11-28T13:05:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lipsberga.github.io/linina/</loc>
+    <loc>https://lipsberga.github.io/linina/posts/minicamp/</loc>
+    <lastmod>2020-11-28T13:05:39+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/linina/posts/</loc>
+    <lastmod>2020-11-28T13:05:39+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/linina/posts/post/</loc>
+    <lastmod>2020-11-28T12:38:10+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/linina/posts/my-first-post/</loc>
+    <lastmod>2020-11-28T11:58:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/linina/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

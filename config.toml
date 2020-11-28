@@ -1,6 +1,6 @@
 baseURL = "https://lipsberga.github.io/linina/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Digital Humanities"
 theme = "ananke"
 publishDir = "docs"
 
