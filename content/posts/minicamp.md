@@ -1,5 +1,5 @@
 ---
-title: "Authentic Materials"
+title: "Authentic Materials for ESP"
 date: 2020-11-28T13:05:39+02:00
 ---
 The question whether to use or not to use authentic materials in English for specific purpose course is more topical than ever. More and more people are studying new languages every day and as English is the international language, researchers are especially interested to find out the advantages and disadvantages of using authentic materials in English teaching classes. As nowadays knowing a foreign language can be very beneficial not only in the job market, but also in real life situations, many people are trying to find ways how to study a language in a more efficient and exciting way. 
