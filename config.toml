@@ -1,6 +1,6 @@
 baseURL = "https://lipsberga.github.io/linina/"
 languageCode = "en-us"
-title = "Digital Humanities"
+title = "Digital Humanities by Katrina Linina"
 theme = "ananke"
 publishDir = "docs"
 
