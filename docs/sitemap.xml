@@ -4,27 +4,20 @@
   
   <url>
     <loc>https://lipsberga.github.io/linina/</loc>
-    <lastmod>2020-11-30T17:10:43+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lipsberga.github.io/linina/posts/mindmaps2/</loc>
-    <lastmod>2020-11-30T17:10:43+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lipsberga.github.io/linina/posts/</loc>
-    <lastmod>2020-11-30T17:10:43+02:00</lastmod>
+    <lastmod>2020-11-29T15:35:56+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lipsberga.github.io/linina/posts/mindmaps/</loc>
+    <lastmod>2020-11-29T15:35:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/linina/posts/</loc>
     <lastmod>2020-11-29T15:35:56+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
