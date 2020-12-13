@@ -1,7 +1,9 @@
----
+﻿---
 title: "Mindmaps"
 date: 2020-11-29T15:35:56+02:00
 ---
+
+
 
 ABSTRACT
 
@@ -133,7 +135,7 @@ Many studies show that mind maps not only help with reading comprehension but al
 
 
 
-4 USE OF MINDS MAPS AT THE UNIVERSITY OF                              LATVIA
+4 USE OF MINDS MAPS 
 
 Chapter 4 explains the research methodology and summarizes the results. 
 

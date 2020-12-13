@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Artificial intelligence for learning a second language"
 date: 2020-12-13T16:45:17+02:00
 
 ---
