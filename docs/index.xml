@@ -6,7 +6,17 @@
     <description>Recent content on Digital Humanities by Katrina Linina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Nov 2020 15:35:56 +0200</lastBuildDate><atom:link href="https://lipsberga.github.io/linina/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 16:45:17 +0200</lastBuildDate><atom:link href="https://lipsberga.github.io/linina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://lipsberga.github.io/linina/posts/my-first-post/</link>
+      <pubDate>Sun, 13 Dec 2020 16:45:17 +0200</pubDate>
+      
+      <guid>https://lipsberga.github.io/linina/posts/my-first-post/</guid>
+      <description>Artificial intelligence for learning a second language. INTRODUCTION
+Nowadays knowing a second language is not only considered as norm but also as a necessity in order to be successful in the job market. Learning a new language has always been challenging and time consuming. It not only requires a lot of effort but also a great teacher, a couple of books and dictionaries. Nowadays with the modern technologies and multiple applications it seems to be easier to learn a new language, but is that really the case?</description>
+    </item>
+    
     <item>
       <title>Mindmaps</title>
       <link>https://lipsberga.github.io/linina/posts/mindmaps/</link>
